@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/main.b6dceab5.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/main.b6dceab5.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/runtime-main.f930dac4.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/runtime-main.f930dac4.js.map",
+    "static/js/2.c8fc326d.chunk.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/2.c8fc326d.chunk.js",
+    "static/js/2.c8fc326d.chunk.js.map": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/2.c8fc326d.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/index.html",
+    "precache-manifest.112b66b1dc29d26fd700e374867e634c.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/precache-manifest.112b66b1dc29d26fd700e374867e634c.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/service-worker.js",
+    "static/js/2.c8fc326d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/js/2.c8fc326d.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "https://cdn.jsdelivr.net/gh/mdexSwap/bsc-info@main/static/media/logo.8e72f6f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f930dac4.js",
+    "static/js/2.c8fc326d.chunk.js",
+    "static/js/main.b6dceab5.chunk.js"
+  ]
+}

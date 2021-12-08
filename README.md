@@ -1,2 +1,0 @@
-# bsc-info
-bsc-info
